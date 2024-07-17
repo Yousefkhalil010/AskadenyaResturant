@@ -1,7 +1,7 @@
 {
   "name": "resturantwebsite",
   "version": "0.1.0",
-  "homepage": "https:YousefKhalil010.github.io/AskadenyaResturant",
+  "homepage": "https://YousefKhalil010.github.io/AskadenyaResturant",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
