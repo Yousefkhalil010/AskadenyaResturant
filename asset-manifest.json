@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/YousefKhalil010.github.io/AskadenyaResturant/static/css/main.dbd16498.css",
+    "main.js": "/YousefKhalil010.github.io/AskadenyaResturant/static/js/main.49bc824e.js",
+    "static/media/pic2.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic2.b810024430d376b6bd6d.jpg",
+    "static/media/pic1.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic1.91adf8dc0779a423e014.jpg",
+    "static/media/pic5.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic5.0df4d0d0dda2d436bffc.jpg",
+    "static/media/pic13.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic13.bfdeff133542e7d8e725.jpg",
+    "static/media/pic12.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic12.cdb0f146e4c2cde45025.jpg",
+    "static/media/pic6.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic6.960ff282036e3c4e63eb.jpg",
+    "static/media/pic11.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic11.29d4d0230d13fe6a7f77.jpg",
+    "static/media/pic7.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic7.f6e01ff2a6ae714f244b.jpg",
+    "static/media/pic10.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic10.b7d5d71c88ccc9a8ddef.jpg",
+    "static/media/cover.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/cover.54942c2ec4c92b70203c.jpg",
+    "static/media/pic3.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic3.1defe43a880022701c8d.jpg",
+    "static/media/pic9.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic9.8f95ee7f30a039c9cc3f.jpg",
+    "static/media/pic4.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic4.a567a9db1482b99c0fab.jpg",
+    "static/media/pic8.jpg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/pic8.8868a5c00a992bcd7666.jpg",
+    "static/media/paralex.jpeg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/paralex.904d8c3bdd5c542ce14f.jpeg",
+    "static/media/logo.png": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/logo.9f51c5e5a084c445032d.png",
+    "index.html": "/YousefKhalil010.github.io/AskadenyaResturant/index.html",
+    "static/media/icon-star.svg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/icon-star.ab54bb2615986357f6f780e0dbfd3939.svg",
+    "static/media/icon-plus.svg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/icon-plus.e13f8b5e1d573f6381a8.svg",
+    "static/media/icon-minus.svg": "/YousefKhalil010.github.io/AskadenyaResturant/static/media/icon-minus.4615dbc3308c0a421e11.svg",
+    "main.dbd16498.css.map": "/YousefKhalil010.github.io/AskadenyaResturant/static/css/main.dbd16498.css.map",
+    "main.49bc824e.js.map": "/YousefKhalil010.github.io/AskadenyaResturant/static/js/main.49bc824e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd16498.css",
+    "static/js/main.49bc824e.js"
+  ]
+}
