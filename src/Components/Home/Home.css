@@ -1,0 +1,341 @@
+.numbers{
+    background-color: #ce4319;
+    padding:25px 0;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    color:white;
+}
+.numbers .row{
+    margin: 10px 0px;
+}
+.numbers h2{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px 0px;
+    font-family: 'Tajawal',sans-serif;
+}
+.numbers h6{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Tajawal',sans-serif;
+    letter-spacing: 1px;
+}
+.pride ,.ingredients{
+    background-color: transparent;
+    padding:25px 0;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.pride img,.ingredients img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+.pride h2,.ingredients h2,.paralex h2{
+    font-size: 35px;
+    font-weight: bold;
+    width: 80%;
+    margin: 10px 0px;
+    color:#7a270e;
+    font-family: 'Tajawal',sans-serif;
+    line-height: 50px;
+}
+.pride p,.ingredients p,.paralex p{
+    font-size: 16px;
+    color:#333;
+    line-height: 28px;
+    font-family: 'Tajawal',sans-serif;
+    margin-top: 15px;
+}
+.pride button,.ingredients button,.blogs button{
+    background-color: #7a270e;
+    border: 1px solid #7a270e;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    transition: .2s ease;
+    
+}
+.pride button a,.ingredients button a,.blogs button a{
+    display: block;
+    color:#fff !important ;
+    font-family: 'Tajawal',sans-serif;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.ordernow{
+    display: block;
+    color:#fff !important ;
+    font-family: 'Tajawal',sans-serif;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.ordernow:hover{
+    color:#7a270e !important;
+}
+.pride button:hover a,.ingredients button:hover a,.blogs button:hover a{
+    color:#7a270e !important;
+}
+.pride button:hover,.ingredients button:hover,.blogs button:hover{
+    background-color:#fff !important;
+}
+.ingredients ul li{
+    font-family: 'Tajawal',sans-serif;
+    color:#333;
+    margin-top: 10px;
+    list-style-type: square;
+}
+.paralex{
+    background: url("../../assets//paralex.jpeg");
+    background-size: cover;
+    width:100%;
+    height: 400px;
+    padding: 30px 0px;
+    text-align: center;
+}
+.paralex .row{
+    margin: 50px 0px;
+}
+.paralex a{
+    color:#7a270e;
+    font-size: 20px;
+    margin: 20px 0px;
+    font-family: 'Tajawal',sans-serif;
+}
+.paralex h2{
+    width:95%;
+    margin:20px 0px;
+}
+.paralex p{
+    margin: 20px 0px;
+    color:#444;
+    line-height: 32px;
+}
+.blogs{
+    margin-top: 50px;
+    padding: 25px 0px;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+}
+.blogs .row:first-child{
+    text-align: center;
+    margin: 25px 0px;
+}
+.blogs h2{
+    font-size: 25px;
+    font-weight: bold;
+    width: 100%;
+    margin: 10px 0px;
+    color:#7a270e;
+    font-family: 'Tajawal',sans-serif;
+    line-height: 50px;
+}
+.blogs p{
+    font-size: 16px;
+    color:#333;
+    line-height: 28px;
+    font-family: 'Tajawal',sans-serif;
+    margin-top: 15px;
+}
+.blogs .box img{
+    width:100%;
+    height: 200px;
+}
+.blogs .box{
+    height: auto;
+    width:100%;
+    border : 1px solid #f6f6f6;
+    max-width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+.blogs .box span{
+    color:#fff;
+    font-family: 'Tajawal',sans-serif;
+    font-size: 16px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color:#7a270e;
+}
+.blogs .box h6{
+    color:#7a270e;
+    font-size: 22px;
+    font-family: 'Tajawal',sans-serif;
+}
+.slider{
+    background-color: #ce4319;
+    border: 1px solid #ce4319;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    padding: 50px 0px;
+    font-family: 'Tajawal',sans-serif;
+}
+.slider .carousel{
+    background-color: #fff;
+    margin: 40px 0px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding: 25px 0px;
+}
+.slider img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 20px 0px;
+    margin-bottom: 170px;
+}
+.slider h2{
+    color:#fff;
+    
+}
+.slider .carousel-caption p{
+    color:#212121;
+    font-size: 17px;
+    line-height: 30px; 
+    margin-bottom: 0; 
+}
+.slider .carousel-caption h5{
+    display: block;
+    margin: 10px 0px;
+    color:#ce4319;
+    text-transform: uppercase;
+ 
+}
+.slider .carousel-indicators{
+    position: absolute;
+    right:0;
+    bottom:0;
+    left:0;
+    z-index:15;
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    margin-left: 15%;
+    margin-right: 15%;
+    list-style: none;
+}
+.slider .carousel-indicators button{
+    width: 30px;
+    height: 10px;
+    background-color: #ce4319;
+    border:1px solid #ce4319;
+    margin:5px 5px 15px 5px;
+}
+.contact{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    text-align: center;
+    padding: 5rem 5%;
+    font-family: 'Tajawal',sans-serif;
+}
+.contact .heading{
+    font-size: 2rem;
+    color: #ce4319;
+    text-transform: capitalize;
+    margin: 1rem;
+}
+.form-container .box-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.form-container .box-container .box{
+    border: .2rem solid #EEEEEE;
+    padding: 1rem;
+}
+.form-container .box-container .box h3{
+    font-size: 20px;
+    color: #ce4319;
+    text-transform: capitalize;
+    margin: 1rem 0;
+    font-weight: bold;
+}
+.form-container .box-container .box  p{
+    width: 15rem;
+    font-size: 15px;
+    color: black;
+    text-transform: lowercase;
+    line-height: 2;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .slider .carousel-caption p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    
+    .slider .carousel-caption h5 {
+        font-size: 16px;
+    }
+    .slider img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 170px;
+    }
+    .paralex {
+        height: auto;
+        padding: 20px 0px;
+    }
+
+    .paralex h2 {
+        font-size: 20px;
+    }
+
+    .paralex p {
+        font-size: 14px;
+    }
+
+    .paralex a {
+        font-size: 18px;
+    }
+}
+@media (max-width: 402px) {
+    .slider img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 180px;
+    }
+}
+@media (max-width: 322px) {
+    .slider img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 220px;
+    }
+}
+@media (max-width: 220px) {
+    .slider img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 280px;
+    }
+}
+@media (max-width: 250px) {
+    .slider img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 250px;
+    }
+}
+
+
